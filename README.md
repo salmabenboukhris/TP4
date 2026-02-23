@@ -27,3 +27,9 @@
 
 <img width="1872" height="902" alt="recuperation 3 1" src="https://github.com/user-attachments/assets/5101f8de-43dd-40a1-97d1-99b715e4d7d0" />
 <img width="1850" height="890" alt="recuperation 3 2" src="https://github.com/user-attachments/assets/a47c0430-6a41-406d-8c26-5bf671cabf93" />
+
+# Diagramme de classe
+
+<img width="1499" height="805" alt="Screenshot 2026-02-23 154750" src="https://github.com/user-attachments/assets/fe7468ff-1285-46d3-96e1-79e87f733748" />
+
+
